@@ -1,0 +1,13 @@
+.header{
+    padding: 0;
+    margin: 0;
+}
+.heading5{
+  font-size: 18px;
+  font-weight: bold;
+}
+.totalAmount{
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 39%;
+}
