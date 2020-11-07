@@ -1,0 +1,9 @@
+.list-group-item{
+    padding-right: 50px;
+}
+.Rupees {
+    font-weight: bold;
+    padding-bottom: -50px;
+    margin: 0;
+    float: right;
+}

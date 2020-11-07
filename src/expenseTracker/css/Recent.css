@@ -1,0 +1,44 @@
+
+.list-group-item1{
+    padding-right: 0px;
+    margin-right: 0px;
+    /* border: 2px solid black; */
+    background: skyblue;
+    
+}
+.RecentDiv {
+    /* border: 1px solid black; */
+    /* border: 1px solid black;  */
+    margin-top: 20px;
+    height: 428px;
+    overflow: auto;
+}
+
+.RecentDiv .recentClose{
+    width: fit-content;
+}
+.RecentDiv .recentAmount{
+    width: fit-content;
+    font-weight: bold;
+    display: inline;
+    float: right;
+}
+
+
+.contacts{
+    text-align: center;
+}
+.contacts img{
+    margin: 30px 15px;
+    width: 50px;
+    height: 45px;
+}
+.contacts img:nth-child(2){
+    /* border: 1px solid black; */
+    border-radius: 51%;
+}
+.contacts img:hover{
+    background: white;
+    box-shadow: 0 0 10px 0px #410bc0 inset, 0 0 20px 5px #430a8f;
+    cursor: pointer;
+}
